@@ -1,0 +1,9 @@
+.foodCard-container{
+    display: flex;
+    flex-direction: column;
+}
+.foodlist-img{
+    height:150px;
+    width: 200px;
+    border-radius: 10px;
+}

@@ -1,0 +1,29 @@
+.cart-container{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    gap: 10px;
+}
+.cart-table{
+    width: 100%;
+    text-align: left;
+}
+.cart-table img{
+    height: 80px;
+    width: 100px;
+    border-radius: 20%;
+}
+.cartleft-container{
+    display: flex;
+    flex: 2;
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.cartright-container{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
